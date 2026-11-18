@@ -1,0 +1,6 @@
+output/
+Rplots.pdf
+.RData
+.Rproj.user/
+.Rhistory
+.DS_Store
